@@ -1,0 +1,45 @@
+footer {
+    background-color: rgba(24, 22, 39, 1);
+}
+a {
+    color: rgb(46, 41, 90);
+}
+#mainNav {
+    background-color: rgba(24, 22, 39, 0.9);
+}
+#welcome {
+    padding: 120px 0 50px;
+    background-color: rgba(46, 41, 80, 0.9);
+}
+#aboutMe, #textImg, .fontColor, .card-body, .testimonial-item {
+    color: rgb(46, 41, 90);
+}
+.fontColorMuted {
+    color: rgb(129, 127, 155);
+}
+#aboutMe, #imgCircle, #textImg, #formulario {
+    padding-top: 70px;
+}
+#about1, #about2 {    
+    padding-bottom: 50px;
+    text-align: justify;
+}
+#imgCards {
+    padding-top: 50px;
+}
+#card1, #card2, #card3 {
+    padding-bottom: 30px;
+}
+.testimonial-item {
+    padding-bottom: 60px;
+}
+.rounded-circle {
+    width: 16rem;
+}
+.btn-primary {
+    background-color: rgba(46, 41, 80, 0.9);
+    border: rgb(255, 255, 255);
+}
+.btn-primary:hover {
+    background-color: rgba(92, 81, 158, 0.9);
+}
